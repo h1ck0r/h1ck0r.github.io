@@ -1,10 +1,10 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![logo](_media/logo.svg)
 
-# docsify <small>3.5</small>
+# 网盾网络安全 <small>by:h1k0r/small>
 
-> 一个神奇的文档网站生成器。
+> 网络安全大师课
 
 - 简单、轻便 (压缩后 ~21kB)
 - 无需生成 html 文件
