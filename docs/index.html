@@ -12,7 +12,7 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
+      name: '网盾网络安全学院',
       repo: ''
     }
   </script>
@@ -24,7 +24,7 @@
   window.$docsify = {
     loadSidebar: true,
     subMaxLevel: 2,
-    coverpage: true,
+    //coverpage: true,
     loadNavbar:true,
     onlyCover: false,
 
@@ -36,7 +36,9 @@
         depth: 3,
       },
     
-
+    alias: {
+      '/.*/_sidebar.md': '/_sidebar.md'
+    }
 
   }
 </script>
@@ -47,5 +49,11 @@
 <script src="//cdn.jsdelivr.net/npm/prismjs@1.27.0/components/prism-cshtml.js"></script>
 <script src="//cdn.jsdelivr.net/npm/prismjs@1.27.0/components/prism-java.js"></script>
 <script src="//cdn.jsdelivr.net/npm/prismjs@1.27.0/components/prism-python.js"></script>
+
+<style type="text/css">
+  .content {
+    overflow: auto;
+  }
+  </style>
 </body>
 </html>

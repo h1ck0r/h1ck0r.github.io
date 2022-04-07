@@ -11,4 +11,4 @@
 - 众多主题
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](message)
+[Get Started](信息收集/message)
