@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/logo.svg)
+![logo](media/logo2.png)
 
 # 网盾网络安全 <small>by:h1k0r</small>
 
